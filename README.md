@@ -32,3 +32,17 @@ I’m a passionate Software Engineer from Lahore, Pakistan 🇵🇰 with 4+ year
 
 **Project Management**
 - Jira • Trello • ClickUp • Agile • Scrum • Stakeholder Collaboration
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div>
+  <b> Connnect with Me </b>
+</div>
+
+<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/iamazharsajjad/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:iamazharsajjad@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+
+</br>
